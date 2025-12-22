@@ -6,7 +6,7 @@ theme: minima
 
 author:
   name: Gregory Guevara Rodríguez
-  email: ""
+  email: "gguevara@earth.ac.cr"
 
 show_excerpts: false
 markdown: kramdown
