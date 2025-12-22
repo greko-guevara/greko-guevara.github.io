@@ -14,9 +14,6 @@ fertigation, pressurized hydraulic systems, and applied hydrological modeling.
 My academic and professional work focuses on improving agricultural productivity
 through efficient water use, system design, and data-driven decision making.
 
-I am currently starting a **PhD in Soil Physics**, with research interests in soil–water
-processes, hydraulic behavior, and climate–production interactions.
-
 ---
 
 ## Core Areas of Expertise
