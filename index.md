@@ -42,6 +42,7 @@ through efficient water use, system design, and data-driven decision making.
 
 - 🔬 **ORCID:** <https://orcid.org/0000-0001-9056-9847>
 - 💻 **GitHub:** <https://github.com/greko-guevara>
+- 🔬 **ResearchGate:** <https://www.researchgate.net/profile/Gregory-Guevara>
 - 🎓 **LinkedIn:** <https://www.linkedin.com/in/gguevara>
 - 📺 **YouTube:** <https://youtube.com/@gregoryguevara>
 
