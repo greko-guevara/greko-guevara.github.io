@@ -9,24 +9,68 @@ My research is focused on understanding and improving water use and soil–water
 
 ---
 
-## Published Scientific Work
+# Research & Publications
 
-### *Response to drip fertigation in paddy (Oryza sativa, Conarroz 3) in the Costa Rican humid tropic*
-
-**Guevara, G.** & Mendoza, A. (2024). *Revista Tecnología en Marcha*, 37(1), 102–113.  
-DOI: https://doi.org/10.18845/tm.v37i1.6570
-
-This peer-reviewed study evaluated the effect of drip fertigation on rice productivity in the humid tropics of Costa Rica using controlled field trials. Results demonstrated that under optimal nutrient application rates, drip fertigation increased rice yield and water productivity, with clear responses associated with seasonal climatic conditions. This research provides evidence for the potential of drip fertigation to improve water and nutrient efficiency in tropical rice systems. :contentReference[oaicite:3]{index=3}
+**Gregory Guevara Rodríguez**  
+🔬 ORCID: <https://orcid.org/0000-0001-9056-9847>
+📚 ResearchGate: <https://www.researchgate.net/profile/Gregory-Guevara>
+💻 GitHub: <https://github.com/greko-guevara>  
 
 ---
 
-## Ongoing and Mentored Research
+## 📑 Peer-Reviewed Journal Articles (Indexed)
 
-### *Fertiirrigation effects on rice growth and productivity under tropical wet conditions*
+Guevara Rodríguez, G., & Watson Hernández, F. (2025).  
+**The impact of dripline parameters on water travel time: A predictive modeling study for precision irrigation.**  
+*Agricultural Sciences, 16*, 1414–1432.  
+<https://doi.org/10.4236/as.2025.1612082>
 
-This undergraduate research project, conducted at the Laboratory of Fertigation at Universidad EARTH, analyzed how different fertilizer treatments interact with fertigation to influence rice growth variables, root characteristics, biomass, and final yield under field conditions. Field measurements included agronomic and physiological indicators with implications for both production and design of fertigation strategies. :contentReference[oaicite:4]{index=4}
+Guevara Rodríguez, G., & Mendoza, A. (2024).  
+**Respuesta al fertirriego por goteo en arroz (*Oryza sativa*, variedad CONARROZ 3) en el trópico húmedo costarricense.**  
+*Revista Tecnología en Marcha, 37*(1), 102–113.  
+<https://doi.org/10.18845/tm.v37i1.6570>  
+
+Guevara Rodríguez, G., Vargas-Obando, A., & Quesada-Chanto, J. I. (2021).  
+**Prevención del golpe de ariete mediante el control del tiempo de cierre al usar válvulas hidráulicas automatizadas.**  
+*Revista Tecnología en Marcha, 34*(1).  
+<https://doi.org/10.18845/tm.v34i1.4821>  
+
+Guevara, G., Arias, D., Valverde, J. C., & Campos, R. (2018).  
+**Factibilidad técnica y financiera del cultivo de *Pennisetum purpureum* para la producción de biomasa con fines de generación eléctrica.**  
+*Revista Forestal Mesoamericana Kurú, 15*, 5–13.  
+<https://doi.org/10.18845/rfmk.v15i1.3710>  
 
 ---
+
+## 📄 Non-Indexed Articles & Preprints
+
+Guevara Rodríguez, G. (2024).  
+**The behavior of travel times in drip irrigation using supervised machine learning and optimization methods with Python.**  
+*Preprints, 2024*, 2024040955.  
+<https://doi.org/10.20944/preprints202404.0955.v1>  
+
+---
+
+## 🛠 Technical Reports
+
+Sigcho, E., Durango, L., Murwanashyaka, E., Guevara, G., & Rodríguez, W. (2023).  
+**Sprinklers uniformity report** [Technical report]. ResearchGate.  
+<https://doi.org/10.13140/RG.2.2.31724.64649/1>  
+
+---
+
+## 🖼 Posters
+
+Sande, D. O., Sigcho, E., Murwanashyaka, E., & Guevara, G. (2022, February).  
+**Producción del maíz (*Zea mays*) bajo fertirriego: La experiencia en el Caribe costarricense** [Poster]. ResearchGate.  
+<https://doi.org/10.13140/RG.2.2.19109.82402  
+
+Guevara Rodríguez, G., Martín Aguilar, L., Villacís Silva, O., & Vera Giler, J. (2021).  
+**Producción de sandía (*Citrullus lanatus*) en condiciones del trópico húmedo.** ResearchGate.  
+<https://doi.org/10.13140/RG.2.2.17432.10242>  
+
+---
+
 
 ## Research Themes
 
