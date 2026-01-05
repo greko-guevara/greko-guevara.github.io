@@ -1,6 +1,6 @@
 
 
-## Gregory Guevara Rodríguez
+
 
 **Agricultural Engineer | Irrigation & Fertigation | Pressurized Hydraulics |  
 Hydrological Modeling | STEM & Digital Agriculture Educator**
