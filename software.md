@@ -20,35 +20,36 @@ for irrigation, hydraulics, hydrology, and soil–water processes.
   - Numerical computing (NumPy, SciPy)
   - Data analysis (Pandas)
   - Visualization (Matplotlib)
-  - Scientific modeling
-- **GIS tools**
+  - Scientific modeling (Scikit-learn)
+- **CAD and GIS tools**
   - QGIS for spatial analysis and hydrological applications
+  - AutoCAD for engineering design
 - **Engineering software**
   - Hydraulic and irrigation system analysis tools
+  - Epanet and WaterCAD
+- **Excel**
+  - Hydraulic and irrigation sheets
+  - Excel for data management.  
 - **Version control**
   - Git and GitHub for collaborative and reproducible development
 
 ---
+📚 ## Software y Repositorios
 
-## Modeling and Applied Computational Areas
+Guevara Rodríguez, G. (n.d.). greko-guevara [Perfil de repositorio GitHub]. GitHub.
+<https://github.com/greko-guevara>
 
-### 💧 Irrigation and Pressurized Hydraulic Modeling
-- Hydraulic analysis of pressurized irrigation networks
-- Design and evaluation of drip and sprinkler systems
-- Energy losses and system optimization
-- Development of computational tools to support irrigation design
+Guevara Rodríguez, G. (2023). WaterHammer [Repositorio GitHub]. GitHub.
+<https://github.com/greko-guevara/WaterHammer>
 
-### 🌧️ Hydrological and Climate Analysis
-- Rainfall data analysis and extreme precipitation
-- Frequency analysis and return periods
-- Hydrological modeling applied to agricultural watersheds
-- Climate variability analysis for irrigation planning
+Guevara Rodríguez, G. (2023). irrigation_uniformity [Repositorio GitHub]. GitHub.
+<https://github.com/greko-guevara/irrigation_uniformity>
 
-### 🌱 Soil–Water and Agrohydrological Processes
-- Soil hydraulic properties
-- Water movement in unsaturated soils
-- Soil–water–plant interactions
-- Integration of soil physics concepts into numerical models
+Guevara Rodríguez, G. (2025). greko-guevara/Advance_Time_driplines: Python analysis of dripline parameters on water travel time—A predictive modeling study for precision irrigation [Software]. Zenodo.
+<https://doi.org/10.5281/zenodo.17591797>
+
+In addition to the open-source software and repositories presented here, a significant number of computational workflows are documented on my YouTube channel. These include step-by-step implementations of irrigation design methods, hydraulic calculations, and performance evaluations, with a particular emphasis on spreadsheet-based modeling using **Microsoft Excel**. The channel serves as a practical complement to my research and teaching activities, showcasing applied computational approaches for drip and sprinkler irrigation systems, fertigation planning, and data-driven decision-making in agricultural engineering.
+🔗 YouTube channel: <https://www.youtube.com/@gregoryguevara>
 
 ---
 
@@ -62,20 +63,6 @@ This includes:
 - Developing clear and well-documented examples
 - Creating computational notebooks and scripts for learning purposes
 - Promoting reproducible and open educational resources
-
----
-
-## Open-Source Repositories
-
-My public code repositories are available on GitHub:
-
-🔗 **GitHub:** https://github.com/greko-guevara
-
-They include examples, scripts, and tools related to:
-- Irrigation and hydraulic calculations
-- Hydrological data analysis
-- Engineering education with Python
-- Applied modeling in agricultural systems
 
 ---
 
