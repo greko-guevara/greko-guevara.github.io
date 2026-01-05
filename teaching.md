@@ -16,28 +16,6 @@ model, and communicate solutions** to complex water and soil-related problems.
 
 ---
 
-## Teaching Areas
-
-### 🌱 Irrigation and Drainage Engineering
-- Surface, sprinkler, and drip irrigation systems
-- Irrigation scheduling and water productivity
-- Fertigation principles and nutrient–water interactions
-- Evaluation of irrigation system performance
-
-### 💧 Pressurized Hydraulics
-- Hydraulic fundamentals for irrigation systems
-- Pipe flow, head losses, and energy efficiency
-- Design and analysis of pressurized networks
-- Practical applications of hydraulic theory
-
-### 🌧️ Hydrology and Climate for Agriculture
-- Rainfall analysis and interpretation
-- Extreme precipitation and return periods
-- Climate variability and agricultural risk
-- Applied hydrology for irrigation planning
-
----
-
 ## STEM Education and Digital Agriculture
 
 A central component of my academic work is the integration of **STEM education
@@ -45,7 +23,7 @@ and digital tools** into agricultural engineering.
 
 This includes:
 
-- Teaching **programming for engineers** using Python
+- Teaching **programming for engineers** using Python & Excel
 - Introducing data analysis and visualization for agricultural systems
 - Promoting computational thinking as a core engineering skill
 - Applying digital tools to irrigation, hydrology, and soil–water processes
@@ -76,16 +54,10 @@ In addition to formal university teaching, I develop and share educational
 resources through digital platforms.
 
 ### 📺 Educational Content
-- Instructional videos on irrigation, hydraulics, and programming
+- Instructional manuals on irrigation, hydraulics, and programming
 - Applied examples connecting theory with agricultural practice
 
 🔗 **YouTube Channel:** https://youtube.com/@gregoryguevara
-
-### 💻 Open Educational Code
-- Teaching-oriented scripts and notebooks
-- Examples designed for learning and experimentation
-
-🔗 **GitHub:** https://github.com/greko-guevara
 
 ---
 
