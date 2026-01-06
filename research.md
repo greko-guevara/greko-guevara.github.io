@@ -1,24 +1,18 @@
----
-layout: page
-title: Research
----
 
 ## Research
 
-My research is focused on understanding and improving water use and soil–water–plant interactions in agricultural systems through **applied experimentation, quantitative modeling, and reproducible methods**. My work bridges field experiments, statistical interpretation and engineering analysis to address real production and design challenges in irrigation and fertigation under tropical conditions.
+My research integrates **soil–water–plant relationships** with core principles of **hydraulic and irrigation engineering** to improve the design, operation, and performance of agricultural water systems. Through applied experimentation and quantitative modeling, my work addresses irrigation productivity, fertigation efficiency, and the hydraulic behavior of pressurized networks under tropical conditions.
 
 ---
 
-# Research & Publications
-
-**Gregory Guevara Rodríguez**  
+# Research & Publications 
 🔬 ORCID: <https://orcid.org/0000-0001-9056-9847>
 📚 ResearchGate: <https://www.researchgate.net/profile/Gregory-Guevara>
 💻 GitHub: <https://github.com/greko-guevara>  
 
 ---
 
-## 📑 Peer-Reviewed Journal Articles (Indexed)
+## 📑 Journal Articles (Peer-Reviewed)
 
 Guevara Rodríguez, G., & Watson Hernández, F. (2025).  
 **The impact of dripline parameters on water travel time: A predictive modeling study for precision irrigation.**  
@@ -41,7 +35,6 @@ Guevara, G., Arias, D., Valverde, J. C., & Campos, R. (2018).
 <https://doi.org/10.18845/rfmk.v15i1.3710>  
 
 ---
-
 ## 📄 Non-Indexed Articles & Preprints
 
 Guevara Rodríguez, G. (2024).  
@@ -71,7 +64,6 @@ Guevara Rodríguez, G., Martín Aguilar, L., Villacís Silva, O., & Vera Giler, 
 
 ---
 
-
 ## Research Themes
 
 My research encompasses the following thematic areas:
@@ -92,20 +84,6 @@ These topics combine empirical results with design and optimization insights rel
 
 This stream connects **field outcomes with engineering interpretation** to guide better system design and operation.
 
----
-
-## Philosophy of Research
-
-I pursue an approach that emphasizes:
-
-- **Reproducibility:** clear documentation of methods, data and code  
-- **Applied relevance:** research questions grounded in agricultural realities  
-- **Integration:** linking soil–water physics, engineering analysis, and data interpretation
-
-This philosophy informs both the scientific outputs and the way results are communicated for extension, policy and education.
-
----
-
 ## Institutional and Collaborative Context
 
-I serve as a faculty researcher and professor in Irrigation and Drainage at Universidad EARTH, where I mentor students in field research, modeling, and the interpretation of irrigation performance in the context of tropical agronomy. My research builds on a foundation of **interdisciplinary thinking**, embedding soil physics, crop science, and engineering design into practical solutions. :contentReference[oaicite:5]{index=5}
+I serve as a faculty researcher and professor in Irrigation and Drainage at EARTH University, where I supervise and mentor undergraduate and graduate students in field experimentation, hydraulic modeling, and the evaluation of irrigation system performance under tropical conditions. My work is grounded in **interdisciplinary collaboration**, integrating soil physics, crop science, hydrology, and engineering design to develop practical and transferable solutions for agricultural water management.
