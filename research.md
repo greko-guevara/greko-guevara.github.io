@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Research 
+title: Research & Publications 
 ---
 
 My research integrates **soil–water–plant relationships** with core principles of **hydraulic and irrigation engineering** to improve the design, operation, and performance of agricultural water systems. Through applied experimentation and quantitative modeling, my work addresses irrigation productivity, fertigation efficiency, and the hydraulic behavior of pressurized networks under tropical conditions.
 
 ---
-
-## Research & Publications 
 🔬 ORCID: <https://orcid.org/0000-0001-9056-9847>
 📚 ResearchGate: <https://www.researchgate.net/profile/Gregory-Guevara>
 💻 GitHub: <https://github.com/greko-guevara>  
