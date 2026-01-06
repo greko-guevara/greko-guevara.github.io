@@ -1,5 +1,8 @@
+---
+layout: page
+title: Research 
+---
 
-## Research 
 My research integrates **soil–water–plant relationships** with core principles of **hydraulic and irrigation engineering** to improve the design, operation, and performance of agricultural water systems. Through applied experimentation and quantitative modeling, my work addresses irrigation productivity, fertigation efficiency, and the hydraulic behavior of pressurized networks under tropical conditions.
 
 ---
