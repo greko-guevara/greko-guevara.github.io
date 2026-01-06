@@ -1,5 +1,7 @@
-
-## Computational Work
+---
+layout: page
+title: Computational Work
+---
 
 My computational work focuses on the development of **engineering-oriented tools and reproducible workflows** for irrigation design, hydraulic analysis, and water-use efficiency assessment. I integrate Python-based modeling, spreadsheet-driven engineering calculations, and open-source practices to support research, teaching, and professional applications in agricultural water management.
 
