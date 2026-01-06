@@ -3,8 +3,6 @@ layout: page
 title: Teaching and Education
 ---
 
-## Teaching Profile
-
 I am a **full-time professor at EARTH University (Costa Rica)**, teaching irrigation, drainage
 hydraulics, and applied programming within the agronomy program.
 My teaching integrates **engineering fundamentals, computation, and real agricultural systems**, with a strong emphasis on learning by doing.
