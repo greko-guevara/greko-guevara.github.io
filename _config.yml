@@ -10,7 +10,7 @@ author:
   name: Gregory Guevara Rodríguez
   email: "gguevara@earth.ac.cr"
 
-theme: Architect
+theme: minima
 
 markdown: kramdown
 show_excerpts: false
