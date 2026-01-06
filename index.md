@@ -1,4 +1,3 @@
-## Gregory Guevara Rodríguez
 
 **Agricultural Engineer · Irrigation & Fertigation · Pressurized Hydraulics**  
 *PhD Student in Soil Physics*
