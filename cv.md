@@ -75,13 +75,12 @@ IAG-29747 <https://cfia.or.cr/site/> Professional Association of Engineers of Co
 <https://www.rymca.com>  
 - Design and construction of irrigation projects and potable water aqueducts
 
----
-
 ### Chiquita Brands (COBAL)  
 **Engineering Supervisor**  
 **January 2005 – February 2006**
 - Supervision of engineering operations in agricultural production systems
 
+---
 
 ## Languages
 
