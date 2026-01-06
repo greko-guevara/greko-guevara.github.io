@@ -43,7 +43,8 @@ Improving agricultural productivity through **efficient water use**, irrigation 
 - Programming for engineers (Python)  
 - Agricultural data analysis and visualization  
 - Teaching technology applied to agriculture  
-- Reproducible and open educational resources  
+- Reproducible and open educational resources
+- 
 ---
 
 ## Links
