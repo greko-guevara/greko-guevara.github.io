@@ -1,18 +1,16 @@
 
-## Research
-
 My research integrates **soil–water–plant relationships** with core principles of **hydraulic and irrigation engineering** to improve the design, operation, and performance of agricultural water systems. Through applied experimentation and quantitative modeling, my work addresses irrigation productivity, fertigation efficiency, and the hydraulic behavior of pressurized networks under tropical conditions.
 
 ---
 
-# Research & Publications 
+## Research & Publications 
 🔬 ORCID: <https://orcid.org/0000-0001-9056-9847>
 📚 ResearchGate: <https://www.researchgate.net/profile/Gregory-Guevara>
 💻 GitHub: <https://github.com/greko-guevara>  
 
 ---
 
-## 📑 Journal Articles (Peer-Reviewed)
+### 📑 Journal Articles (Peer-Reviewed)
 
 Guevara Rodríguez, G., & Watson Hernández, F. (2025).  
 **The impact of dripline parameters on water travel time: A predictive modeling study for precision irrigation.**  
@@ -35,7 +33,7 @@ Guevara, G., Arias, D., Valverde, J. C., & Campos, R. (2018).
 <https://doi.org/10.18845/rfmk.v15i1.3710>  
 
 ---
-## 📄 Non-Indexed Articles & Preprints
+### 📄 Non-Indexed Articles & Preprints
 
 Guevara Rodríguez, G. (2024).  
 **The behavior of travel times in drip irrigation using supervised machine learning and optimization methods with Python.**  
@@ -44,7 +42,7 @@ Guevara Rodríguez, G. (2024).
 
 ---
 
-## 🛠 Technical Reports
+### 🛠 Technical Reports
 
 Sigcho, E., Durango, L., Murwanashyaka, E., Guevara, G., & Rodríguez, W. (2023).  
 **Sprinklers uniformity report** [Technical report]. ResearchGate.  
@@ -52,7 +50,7 @@ Sigcho, E., Durango, L., Murwanashyaka, E., Guevara, G., & Rodríguez, W. (2023)
 
 ---
 
-## 🖼 Posters
+### 🖼 Posters
 
 Sande, D. O., Sigcho, E., Murwanashyaka, E., & Guevara, G. (2022, February).  
 **Producción del maíz (*Zea mays*) bajo fertirriego: La experiencia en el Caribe costarricense** [Poster]. ResearchGate.  
@@ -64,11 +62,11 @@ Guevara Rodríguez, G., Martín Aguilar, L., Villacís Silva, O., & Vera Giler, 
 
 ---
 
-## Research Themes
+### Research Themes
 
 My research encompasses the following thematic areas:
 
-### 🌱 Irrigation and Fertigation for Productivity
+#### 🌱 Irrigation and Fertigation for Productivity
 
 - Field experimentation to evaluate fertigation strategies  
 - Yield and water productivity indicators  
@@ -76,7 +74,7 @@ My research encompasses the following thematic areas:
 
 These topics combine empirical results with design and optimization insights relevant for tropical agricultural systems.
 
-### 💧 Hydraulic and Hydrological Modeling
+#### 💧 Hydraulic and Hydrological Modeling
 
 - Modeling of pressurized irrigation networks  
 - Evaluation of hydraulic performance in drip and sprinkler systems  
@@ -84,6 +82,6 @@ These topics combine empirical results with design and optimization insights rel
 
 This stream connects **field outcomes with engineering interpretation** to guide better system design and operation.
 
-## Institutional and Collaborative Context
+### Institutional and Collaborative Context
 
 I serve as a faculty researcher and professor in Irrigation and Drainage at EARTH University, where I supervise and mentor undergraduate and graduate students in field experimentation, hydraulic modeling, and the evaluation of irrigation system performance under tropical conditions. My work is grounded in **interdisciplinary collaboration**, integrating soil physics, crop science, hydrology, and engineering design to develop practical and transferable solutions for agricultural water management.
