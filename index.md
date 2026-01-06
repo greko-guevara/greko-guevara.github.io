@@ -54,7 +54,6 @@ Improving agricultural productivity through **efficient water use**, irrigation 
 - 🎓 **LinkedIn:** <https://www.linkedin.com/in/gguevara>
 - 📺 **YouTube:** <https://youtube.com/@gregoryguevara>
 - 
----
 
 *This site documents my academic research, professional engineering practice, and open-source contributions in irrigation engineering and digital agriculture.*
 
