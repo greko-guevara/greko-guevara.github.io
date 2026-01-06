@@ -59,5 +59,5 @@ In addition to the open-source software presented here, part of my computational
 These workflows support both academic instruction and professional decision making in drip and sprinkler irrigation systems, fertigation planning, and agricultural water management. A significant component of this work is oriented toward **education and capacity building**, including the teaching of Python and Excel for engineers, the development of well-documented instructional examples, and the creation of reproducible computational tools for learning and professional training.
 
 ▶ **YouTube Channel:**  
-https://www.youtube.com/@gregoryguevara
+<https://www.youtube.com/@gregoryguevara>
 
