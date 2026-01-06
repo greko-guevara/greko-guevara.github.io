@@ -1,12 +1,15 @@
+## Gregory Guevara Rodríguez
 
 **Agricultural Engineer · Irrigation & Fertigation · Pressurized Hydraulics**  
 *PhD Student in Soil Physics*
+
+Agricultural Engineer with over **20 years of experience** in large-scale irrigation systems and more than **25,000 hectares** designed and operated across tropical Latin America. Former irrigation project director and **active consultant** in pressurized hydraulics, fertigation, and irrigation system optimization.
 
 Improving agricultural productivity through **efficient water use**, irrigation system design, and **data-driven decision-making**.
 
 **Full-time Professor at EARTH University · Costa Rica**
 
-[ Research ](./research.md) · [ Software ](./software.md) · [ CV ](./cv.md) · [ YouTube ](https://www.youtube.com/@gregoryguevara)
+[ Research ](./research.md) · [ Software ](./software.md) · [ Professional ](./professionalcarreer.md) · 
 
 ---
 
