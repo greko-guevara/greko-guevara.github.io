@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gregory Guevara Rodríguez, M.Sc.
+title:  Gregory Guevara R.
 ---
 
 **Agricultural Engineer · Irrigation & Fertigation · Pressurized Hydraulics**  
