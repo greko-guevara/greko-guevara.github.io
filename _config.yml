@@ -1,8 +1,7 @@
 title: Gregory Guevara Rodríguez
 
 description: >
-  Agricultural Engineer with 20+ years of experience in large-scale irrigation,
-  pressurized hydraulics, and fertigation systems across tropical Latin America.
+   Irrigation & Fertigation · Pressurized Hydraulics · Digital Agriculture
 
 tagline: >
   Irrigation & Fertigation · Pressurized Hydraulics · Digital Agriculture
@@ -11,7 +10,9 @@ author:
   name: Gregory Guevara Rodríguez
   email: "gguevara@earth.ac.cr"
 
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"  # azul
+
 markdown: kramdown
 show_excerpts: false
 lang: en
