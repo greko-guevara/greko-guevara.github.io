@@ -1,8 +1,8 @@
 ---
 layout: page
 title: CV
-
-## Gregory Guevara Rodríguez, M.Sc.
+---
+## Gregory Guevara Rodríguez 
 **Agricultural Engineer**  
 IAG-29747 <https://cfia.or.cr/site/> Professional Association of Engineers of Costa Rica
 
