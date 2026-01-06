@@ -1,24 +1,35 @@
 title: Gregory Guevara Rodríguez
+
 description: >
-  Agricultural Engineer | Irrigation & Fertigation | Pressurized Hydraulics |
-  Hydrological Modeling | STEM & Digital Agriculture Educator
-theme: minima
+  Agricultural Engineer with 20+ years of experience in large-scale irrigation,
+  pressurized hydraulics, and fertigation systems across tropical Latin America.
+
+tagline: >
+  Irrigation & Fertigation · Pressurized Hydraulics · Digital Agriculture
 
 author:
   name: Gregory Guevara Rodríguez
   email: "gguevara@earth.ac.cr"
 
-show_excerpts: false
+theme: minima
 markdown: kramdown
+show_excerpts: false
+lang: en
+
+url: "https://greko-guevara.github.io"
+baseurl: ""
+
+plugins:
+  - jekyll-seo-tag
 
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/greko-guevara" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/gguevara" }
-    
+
 header_pages:
   - research.md
   - software.md
   - teaching.md
   - professionalcareer.md
-  
+
