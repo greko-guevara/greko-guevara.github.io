@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
----
+title: CV
 
 ## Gregory Guevara Rodríguez, M.Sc.
 **Agricultural Engineer**  
